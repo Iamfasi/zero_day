@@ -1,1 +1,1 @@
-"i am miki yellow"
+"This file is mandatory in projects"
